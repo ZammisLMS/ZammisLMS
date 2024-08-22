@@ -22,8 +22,3 @@ SQL Server QlikSense SQL Python
 
 Cursos realizados 🤓
 DT Analyst Data Science Academy | PBI + SQL Server - Yto Nihon
-
-
-ZammisLMS/ZammisLMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
