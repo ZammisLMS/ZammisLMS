@@ -12,10 +12,7 @@ Sobre mim
 
 📚 Lendo: [Antifrágil - Nassim Nicholas Taleb]
 
-Eu já trabalhei com... 🔧
-Tecnologias e Ferramentas
-
-Figma Power BI QlikSense Denodo Azure VS
+Figma|Power BI|QlikSense|Denodo|Azure|VS
 
 Eu estou estudando... 🧩
 SQL Server QlikSense SQL Python
